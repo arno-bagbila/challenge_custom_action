@@ -1,0 +1,5 @@
+name: 'Entrypoint Printer'
+description: 'Print Entrypoint'
+runs:
+   using: 'docker'
+   image: 'Dockerfile'
